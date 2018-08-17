@@ -1,2 +1,2 @@
 # portfolio
-Graduate Personal Portfolio
+Portfolio for Graduate work
